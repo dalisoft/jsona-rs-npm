@@ -1,0 +1,40 @@
+{
+  "name": "jsona-rs-npm",
+  "version": "0.6.0",
+  "type": "module",
+  "description": "JSONA parser, linter, formatter, lsp and cli",
+  "author": "Davlatjon Shavkatov <opensource@dalisoft.uz>, sigoden <sigoden@gmail.com>",
+  "files": [
+    "prepare.js"
+  ],
+  "bin": {
+    "jsona": "./jsona"
+  },
+  "engines": {
+    "node": ">=18.19.1"
+  },
+  "scripts": {
+    "prepare": "node ./prepare.js"
+  },
+  "keywords": [
+    "parser",
+    "formatter",
+    "lsp",
+    "jsona",
+    "jsona-parser",
+    "npm",
+    "rust"
+  ],
+  "dependencies": {
+    "binary2npm": "^0.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalisoft/jsona-rs-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dalisoft/jsona-rs-npm/issues"
+  },
+  "homepage": "https://github.com/dalisoft/jsona-rs-npm#readme",
+  "license": "Apache-2.0"
+}
