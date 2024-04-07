@@ -14,7 +14,7 @@
     "node": ">=18.19.1"
   },
   "scripts": {
-    "prepare": "node ./prepare.js"
+    "postinstall": "node ./prepare.js"
   },
   "keywords": [
     "parser",
@@ -26,7 +26,7 @@
     "rust"
   ],
   "dependencies": {
-    "binary2npm": "^0.0.7"
+    "binary2npm": "^0.3.1"
   },
   "repository": {
     "type": "git",
