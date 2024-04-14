@@ -3,3 +3,4 @@ commitlint
 .DS_Store
 node_modules
 jsona
+bun.lockb
