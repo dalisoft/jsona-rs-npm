@@ -11,11 +11,11 @@ Look at [official documentation](https://jsona.github.io/jsona)
 ## Installation
 
 ```sh
-npm install -g jsona-rs-npm
+npm install dalisoft/jsona-rs-npm -D
 # or
-yarn install -g jsona-rs-npm
+yarn install dalisoft/jsona-rs-npm -D
 # or
-bun add -g jsona-rs-npm
+bun add dalisoft/jsona-rs-npm -D
 ```
 
 ## Environment variables
