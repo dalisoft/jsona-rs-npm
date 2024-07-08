@@ -26,7 +26,7 @@
     "rust"
   ],
   "dependencies": {
-    "binary2npm": "https://github.com/dalisoft/binary2npm#v0.4.0"
+    "binary2npm": "https://github.com/dalisoft/binary2npm#v0.4.1"
   },
   "repository": {
     "type": "git",
